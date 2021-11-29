@@ -1,0 +1,33 @@
+.code-cell-wrapper {
+  display: flex;
+  flex-direction: row;
+  height: calc(100% - 10px);
+}
+
+.preview-wrapper {
+  height: 100%;
+  background-color: white;
+  flex-grow: 1;
+}
+
+.progress-wrapper {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

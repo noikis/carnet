@@ -1,0 +1,2 @@
+(this.webpackJsonpbooknotes=this.webpackJsonpbooknotes||[]).push([[462],{591:function(e,n){!function(e){function n(n,a){e.languages[n]&&e.languages.insertBefore(n,"comment",{"doc-comment":a})}var a=e.languages.markup.tag,t={pattern:/\/\/\/.*/,greedy:!0,alias:"comment",inside:{tag:a}},s={pattern:/'''.*/,greedy:!0,alias:"comment",inside:{tag:a}};n("csharp",t),n("fsharp",t),n("vbnet",s)}(Prism)}}]);
+//# sourceMappingURL=462.6024fbea.chunk.js.map

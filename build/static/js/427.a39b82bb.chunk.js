@@ -1,0 +1,2 @@
+(this.webpackJsonpbooknotes=this.webpackJsonpbooknotes||[]).push([[427],{556:function(t,e){!function(t){var e=t.util.clone(t.languages.typescript);t.languages.tsx=t.languages.extend("jsx",e);var n=t.languages.tsx.tag;n.pattern=RegExp("(^|[^\\w$]|(?=</))(?:"+n.pattern.source+")",n.pattern.flags),n.lookbehind=!0}(Prism)}}]);
+//# sourceMappingURL=427.a39b82bb.chunk.js.map
