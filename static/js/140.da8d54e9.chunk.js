@@ -1,0 +1,2 @@
+(this.webpackJsonpcarnetjs=this.webpackJsonpcarnetjs||[]).push([[140],{269:function(t,n){Prism.languages.gcode={comment:/;.*|\B\(.*?\)\B/,string:{pattern:/"(?:""|[^"])*"/,greedy:!0},keyword:/\b[GM]\d+(?:\.\d+)?\b/,property:/\b[A-Z]/,checksum:{pattern:/\*\d+/,alias:"punctuation"},punctuation:/:/}}}]);
+//# sourceMappingURL=140.da8d54e9.chunk.js.map

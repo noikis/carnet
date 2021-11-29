@@ -1,0 +1,2 @@
+(this.webpackJsonpcarnetjs=this.webpackJsonpcarnetjs||[]).push([[52],{181:function(e,a){Prism.languages.brainfuck={pointer:{pattern:/<|>/,alias:"keyword"},increment:{pattern:/\+/,alias:"inserted"},decrement:{pattern:/-/,alias:"deleted"},branching:{pattern:/\[|\]/,alias:"important"},operator:/[.,]/,comment:/\S+/}}}]);
+//# sourceMappingURL=52.2ddb99a9.chunk.js.map
